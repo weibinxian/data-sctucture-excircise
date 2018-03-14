@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1506618445 source:/Users/weibin/Desktop/excircise/main.cpp
+	<iostream>
+	<chrono>
+	"ArrayDeque.h"
+	"array.h"
+	<deque>
+
+1386968995 /Users/weibin/Desktop/excircise/ArrayDeque.h
+	"array.h"
+	"utils.h"
+
+1386968995 /Users/weibin/Desktop/excircise/array.h
+	<iostream>
+	<algorithm>
+	<stdlib.h>
+	<assert.h>
+
+1386968995 /Users/weibin/Desktop/excircise/utils.h
+
